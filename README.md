@@ -49,3 +49,4 @@ Pokud hráč zapomene udeřit po odhození kulového spodka, ostatní mají prá
 - Hra končí, když jsou ve hře pouze dva hráči (ve dvou by se hrálo kp). Prohraje (a rozdává v dalším kole) ten kdo má více karet. Pokud mají stejně, prohrává ten co odhodil (nebo líznul) hlouběji v minulosti.
 - Jedna hra trvá približně minutu - je to celkem frkot.
 - Stává se, že při odhazování se karty vhodí špatně - především z důvodu rychlosti a neustálé změny barev a hodnot. Pokud se tak stane, platí nejrychlejší karta a všechny špatné se vrací hráčům (a ihned se zase hraje).
+- Na obrázku jsou dvě žaludové sedmy. Osud tomu tak přál, že se sešly zrovna v balíčku, se kterým jsme vymysleli agresivní prší. S 5 7 je to trochu zábavnější, ale pochopitelně volielné.
