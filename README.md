@@ -11,18 +11,30 @@ Rozdá se 6 karet každému. Cílem je zbavit se jich rychleji než spoluhráči
 Hru startuje první hráč na tahu (ten po levici rozdávajícího) odhozením padnoucí karty nebo líznutím. V tu chvíli může další padnoucí kartu odhodit kdokoliv kromě hráče, který zahrál poslední tah.  
 Hráči odhazují karty, dokud nenastane jedna z přerušujících událostí – sedma, eso nebo svršek.
 
+### Kdy se dá podívat na rozdané karty
+
+Rozdaných šest karet leží na stole, dokud rozdávající neřekne „teď“. Je to z toho důvodu, aby rozdávající neměl kratší dobu na seznámení se se svými kartami. Rozdávající řekne „teď“ a v tu chvíli je na tahu první hráč (viz výše).
+
 ## Sedma
 
-Jako v kp i zde sedma působí dalšímu hráči na tahu újmu v podobě nutnosti nabrat si z paklíku karty. Hra se zde zastaví, protože na sedmu musí zahrát hráč, který je další v pořadí (po směru hodinových ručiček).  
-Další hráč může odpovědět další sedmou, nebo si líznout. V případě lizu je hra ostatními hráči zahájena ihned, jakmile se dotčený hráč dotkne balíčku.
+Jako v kp i zde sedma působí dalšímu hráči na tahu újmu v podobě nutnosti nabrat si z paklíku karty. Hra se zde zastaví, poněvadž na sedmu musí zahrát hráč, který je další v pořadí (po směru hodinových ručiček).
 
-Na sedmu se nelížou 2 karty za každou sedmu, ale pouze jedna, a maximálně 3 celkem (když se objeví 3 nebo 4 sedmy za sebou). Je to proto, že 2 karty za sedmu jsou příliš trestající a hráč se z návalu karet většinou nevzpamatuje.
+Další hráč může odpovědět další sedmou, nebo si líznout. V případě lizu je hra ostatními hráči zahájena v závislosti na množství lízaných karet. Chceme lízači dát trochu prostoru.
+
+- 1 lízaná: ihned, jakmile se dotčený hráč dotkne balíčku.
+- 2 a více: jakmile kartu/ty zvedne ze stolu (je tedy dobré si je napočítat na paklíku nebo odlízat nejdřív na stůl)
+
+Nelížou se však 2 karty za každou sedmu, ale pouze jediná, a maximálně 3 celkem (když se objeví 3 a více sedem). Je to proto, že 2 karty za sedmu jsou příliš trestající a hráč se z návalu karet většinou nevzpamatuje.
 
 Další změnou oproti kp je nutnost vyřknout "kykyryký" v okamžiku odhození sedmy. Pokud to hráč neudělá, musí si kartu líznout on sám.
 
 ## Eso
 
-Podobně jako u sedmy se čeká, co další hráč udělá: buď hodí další eso, nebo řekne "stojím". Od tohoto okamžiku hra pokračuje agresivním způsobem.
+Podobně jako u sedmy se čeká, co další hráč udělá, má 3 možnosti:
+
+- hodí další Eso
+- řekne "stojím". Od tohoto okamžiku hra pokračuje agresivním způsobem.
+- postaví se. "Říká" tím ostatním, že nemá eso (stojí). Výhoda vztyku tkví v možnosti stojana pokračovat ve hře jinou než esovou kartou. Odhodit jí však může až ve chvíli dokonaného stoje (kolena jsou napnutá). Vzniká tím cca sekundové okno, kdy ve fázi zvedání může jiný hráč aspirujícího stojana předhodit svojí připravenou kartou.
 
 ## Svršek
 
